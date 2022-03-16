@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java and practising Javascript with the react framework**
 
-- 📫 How to reach me **thalliday793@gmail.com**
+- 📫  Reach me at **thalliday793@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
