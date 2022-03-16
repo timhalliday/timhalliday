@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A full-stack developer from the UK. I'm passionate about education 📚</h3>
+<h3 align="center">I'm a full-stack developer from the UK and passionate about education 📚</h3>
 
 - 🌱 I’m currently learning **Java and practising Javascript with the react framework**
 
-- 📫  Reach me at **thalliday793@gmail.com**
+- 📫 Reach me at: **thalliday793@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/timothyhalliday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timothyhalliday" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/tim-halliday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tim-halliday" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
