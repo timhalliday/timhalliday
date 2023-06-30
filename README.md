@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">I'm a full-stack developer from the UK and passionate about education 📚</h3>
 
-- 🌱 I’m currently learning more about **Java and Javascript**
+- 🌱 I’m currently learning more about **React**
 
 - 📫 Reach me at: **thalliday793@gmail.com**
 
